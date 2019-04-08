@@ -1,7 +1,7 @@
 // JavaScript Document
 
 var animData = {
-        container: document.getElementById('bm'),
+        container: document.getElementById('animation'),
         renderer: 'svg',
         loop: true,
         autoplay: true,
