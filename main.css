@@ -3,12 +3,16 @@
 body,html {
 	height: 60%;
 	margin: 0;
+	padding: 15px;
 	
 }
 
 body {
 	display: grid;
 	justify-items: center;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	color: #656565; 
+	line-height: 25px;
 }
 
 #animation {
